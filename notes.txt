@@ -1,0 +1,1 @@
+This is used to logout $ echo 'awesome.quit()' | awesome-client
